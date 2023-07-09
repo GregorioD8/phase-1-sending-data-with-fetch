@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "fdsf",
+      "dogBreed": "fdsaf",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "fds",
+      "dogBreed": "fds",
+      "id": 6
+    },
+    {
+      "dogName": "gfdsg",
+      "dogBreed": "",
+      "id": 7
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,93 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "fgsadf",
+      "userEmail": "dfsagfds",
+      "id": 1
+    },
+    {
+      "userName": "gdsaf",
+      "userEmail": "hgdsa",
+      "id": 2
+    },
+    {
+      "userName": "das",
+      "userEmail": "yhjhg",
+      "id": 3
+    },
+    {
+      "userName": "greg",
+      "userEmail": "delgado",
+      "id": 4
+    },
+    {
+      "userName": "greg",
+      "userEmail": "delgado",
+      "id": 5
+    },
+    {
+      "userName": "fdsaf",
+      "userEmail": "fdsaf",
+      "id": 6
+    },
+    {
+      "userName": "dsafsda",
+      "userEmail": "gfggghh",
+      "id": 7
+    },
+    {
+      "userName": "fdsa",
+      "userEmail": "fdsa",
+      "id": 8
+    },
+    {
+      "userName": "fdsf",
+      "userEmail": "sda",
+      "id": 9
+    },
+    {
+      "userName": "fds",
+      "userEmail": "fdsa",
+      "id": 10
+    },
+    {
+      "userName": "fdsaf",
+      "userEmail": "fdsa",
+      "id": 11
+    },
+    {
+      "name": "fdsa",
+      "email": "fdsa",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 13
+    },
+    {
+      "name": "fds",
+      "email": "fdsa",
+      "id": 14
+    },
+    {
+      "name": "fdsaf",
+      "email": "fdsaf",
+      "id": 15
+    },
+    {
+      "name": "fdsaf",
+      "email": "fdsa",
+      "id": 16
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
